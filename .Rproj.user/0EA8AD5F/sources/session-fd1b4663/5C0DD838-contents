@@ -1,4 +1,0 @@
-install.packages("glmmTMB", repos = "https://cloud.r-project.org")
-install.packages("broom.mixed")
-install.packages("DHARMa")
-install.packages("titanic")
