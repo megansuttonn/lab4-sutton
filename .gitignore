@@ -1,3 +1,11 @@
-/.quarto/
-**/*.quarto_ipynb
+# RStudio files
 .Rproj.user/
+.Rhistory
+.RData
+
+# macOS files
+.DS_Store
+
+# Quarto temporary files
+.quarto/
+**/*.quarto_ipynb
