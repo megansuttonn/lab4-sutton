@@ -1,0 +1,6 @@
+"0",""
+"0","# Scatterplot with a linear regression line"
+"0","ggplot(data = department_attitude, aes(x = rating, y = raises)) +"
+"0","  geom_point() +"
+"0","  geom_smooth(method = ""lm"", col = ""blue"") # Adds line of best fit"
+"0",""

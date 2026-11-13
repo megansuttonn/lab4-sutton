@@ -1,0 +1,6 @@
+"0","comparison_table <- cbind(
+"
+"2","Error: unexpected symbol in:
+""  ""M3: Sex + Class + Age""
+comparison_table""
+"

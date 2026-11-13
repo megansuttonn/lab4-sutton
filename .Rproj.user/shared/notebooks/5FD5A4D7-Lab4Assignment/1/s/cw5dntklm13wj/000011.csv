@@ -1,0 +1,8 @@
+"0","mod0 <- glmmTMB(
+  survived ~ 1,
+  data = titanic,
+  family = gaussian()
+  )
+"
+"2","Error in eval(predvars, data, env) : object 'survived' not found
+"
