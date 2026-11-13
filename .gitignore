@@ -9,3 +9,4 @@
 # Quarto temporary files
 .quarto/
 **/*.quarto_ipynb
+/.quarto/
